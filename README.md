@@ -6,12 +6,12 @@ Gives Ghidra a dark mode and a bit of a makeover.
 
 
 
-Warning: This aesthetic may be unpallatable if you like things in light mode. Unapolagetically pink strings; I am also colourblind.
+Warning: This aesthetic may be unpalatable if you like things in light mode. Unapologetically pink strings; I am also colourblind.
 
 
 To add this theme:
   1. Download the export.tool file appended to this repo.
-  2. Navigate to Ghidra and naviate to "Tools --> import tool --> export.tool"
+  2. Navigate to Ghidra and navigate to "Tools --> import tool --> export.tool"
  
 
 ![Ghidra Import](https://user-images.githubusercontent.com/93310752/210854676-7cc3a87b-f21f-4292-82cf-5bb803d2a0b1.png)
@@ -21,4 +21,4 @@ To add this theme:
 
 ![ghidra run tool](https://user-images.githubusercontent.com/93310752/210855316-489a7029-f4da-4b92-9a34-4b39f31e4378.png)
   
-  4. Run the binary in that codebrowser as you wish! Enjoy :
+  4. Run the binary in that codebrowser as you wish! Enjoy :)
